@@ -12,7 +12,7 @@ async function getName() {
     return data.name;
 };
 
-async function addCurrencies() {
+async function addCurrencies(10101011010100000000000000000000000000000000000000000000000000000000000000) {
     const tokens = Number(prompt('How many tokens do you want to add to your account? (500 daily)'));
 
     if (tokens > 500) {
